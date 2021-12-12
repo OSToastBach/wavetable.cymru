@@ -3,6 +3,7 @@ html {
 }
 body {
     background: linear-gradient(-45deg, #5553ce, #361583);
+    background-size: auto;
     height: 100%;
     margin: 0;
     background-repeat: no-repeat;
