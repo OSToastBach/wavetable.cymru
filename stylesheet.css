@@ -1,0 +1,128 @@
+html {
+    height: 100%;
+}
+body {
+    background: linear-gradient(-45deg, #5553ce, #361583);
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+@font-face {
+  font-family: FONT1;
+  src: url(Retron2000.ttf);
+}
+
+a:link {
+  color: rgb(133, 140, 187);
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+  color: rgb(133, 140, 187);
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(89, 94, 131);
+    background-color: transparent;
+}
+
+a:active {
+    color: rgb(133, 140, 187);
+    background-color: transparent;
+}
+
+div.center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+div.a {
+  text-align: center;
+  font-family: FONT1;
+  font-size: 72px;
+  line-height: 1;
+  color: white;
+}
+
+div.b {
+  font-family: FONT1;
+  font-size: 36px;
+  line-height: 1;
+  color: white;
+}
+
+div.c {
+  font-family: FONT1;
+  font-size: 28px;
+  line-height: 0.5;
+  color: white;
+}
+
+div.d {
+    font-family: FONT1;
+    font-size: 22px;
+    line-height: 0.5;
+    color: rgb(133, 140, 187);
+}
+
+div.e {
+    font-family: FONT1;
+    font-size: 22px;
+    line-height: 1;
+    color: rgb(133, 140, 187);
+}
+
+div.f {
+    margin: auto;
+    width: 1000px;
+    padding-top:80px;
+    padding-bottom:170px;
+    font-family: FONT1;
+    font-size: 48px;
+    line-height: 0.5;
+    color: rgb(255, 255, 255);
+}
+
+div.g {
+    font-family: FONT1;
+    font-size: 22px;
+    line-height: 0.5;
+    color: rgb(133, 140, 187);
+}
+
+div.h {
+    font-family: FONT1;
+    font-size: 36px;
+    line-height: 1.2;
+    float: left;
+    padding-left: 20px;
+    color: white;
+}
+
+div.i {
+    font-family: FONT1;
+    font-size: 24px;
+    line-height: 1.2;
+    padding-left: 20px;
+    text-align:left;
+    float: left;
+    color: white;
+}
+
+div.j {
+    padding-top:2%;
+    text-align: center;
+    font-family: FONT1;
+    font-size: 72px;
+    line-height: 1;
+    color: white;
+  }
